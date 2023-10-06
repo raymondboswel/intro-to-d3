@@ -23,7 +23,7 @@
 		d="M20,20 C20,20 35,30 20,40 "
 		fill="none"
 		stroke="#000"
-		stroke-width="2"
+		stroke-width="1"
 		transform="translate(120,0) rotate(90) scale(2.5)"
 	/>
 </svg>
